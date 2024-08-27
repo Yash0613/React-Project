@@ -1,0 +1,6 @@
+C:\Users\Yash.Khandelwal\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.csproj.AssemblyReference.cache
+C:\Users\Yash.Khandelwal\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.Khandelwal\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.AssemblyInfoInputs.cache
+C:\Users\Yash.Khandelwal\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.AssemblyInfo.cs
+C:\Users\Yash.Khandelwal\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.csproj.CoreCompileInputs.cache
+C:\Users\Yash.Khandelwal\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.MvcApplicationPartsAssemblyInfo.cache
