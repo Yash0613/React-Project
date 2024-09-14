@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|c:\\users\\yashk\\source\\repos\\react-project\\crud operation\\crud operation\\repositorylayer\\crudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\repositorylayer\\crudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|c:\\users\\yashk\\source\\repos\\react-project\\crud operation\\crud operation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|c:\\users\\yashk\\source\\repos\\react-project\\crud operation\\crud operation\\controllers\\crudoperationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\controllers\\crudoperationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|c:\\users\\yashk\\source\\repos\\react-project\\crud operation\\crud operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|c:\\users\\yashk\\source\\repos\\react-project\\crud operation\\crud operation\\commonlayer\\model\\createrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4E3771-C532-4186-9CCB-362E3475CD93}|Crud Operation\\Crud Operation.csproj|solutionrelative:crud operation\\commonlayer\\model\\createrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudOperationController.cs",
+              "DocumentMoniker": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\Controllers\\CrudOperationController.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\Controllers\\CrudOperationController.cs",
+              "ToolTip": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\Controllers\\CrudOperationController.cs",
+              "RelativeToolTip": "Crud Operation\\Controllers\\CrudOperationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:37:41.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\Startup.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\Startup.cs",
+              "ToolTip": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\Startup.cs",
+              "RelativeToolTip": "Crud Operation\\Startup.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:09:41.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\Program.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\Program.cs",
+              "ToolTip": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\Program.cs",
+              "RelativeToolTip": "Crud Operation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:09:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateRecord.cs",
+              "DocumentMoniker": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\CommonLayer\\Model\\CreateRecord.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\CommonLayer\\Model\\CreateRecord.cs",
+              "ToolTip": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\CommonLayer\\Model\\CreateRecord.cs",
+              "RelativeToolTip": "Crud Operation\\CommonLayer\\Model\\CreateRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:52:59.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudOperationRL.cs",
+              "DocumentMoniker": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\RepositoryLayer\\CrudOperationRL.cs",
+              "RelativeDocumentMoniker": "Crud Operation\\RepositoryLayer\\CrudOperationRL.cs",
+              "ToolTip": "C:\\Users\\yashk\\source\\repos\\React-Project\\Crud Operation\\Crud Operation\\RepositoryLayer\\CrudOperationRL.cs",
+              "RelativeToolTip": "Crud Operation\\RepositoryLayer\\CrudOperationRL.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:42:01.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

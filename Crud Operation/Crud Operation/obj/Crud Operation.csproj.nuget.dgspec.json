@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yash.Khandelwal\\source\\repos\\Crud Operation\\Crud Operation\\Crud Operation.csproj": {}
+    "C:\\Users\\yashk\\Source\\Repos\\React-Project\\Crud Operation\\Crud Operation\\Crud Operation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yash.Khandelwal\\source\\repos\\Crud Operation\\Crud Operation\\Crud Operation.csproj": {
+    "C:\\Users\\yashk\\Source\\Repos\\React-Project\\Crud Operation\\Crud Operation\\Crud Operation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yash.Khandelwal\\source\\repos\\Crud Operation\\Crud Operation\\Crud Operation.csproj",
+        "projectUniqueName": "C:\\Users\\yashk\\Source\\Repos\\React-Project\\Crud Operation\\Crud Operation\\Crud Operation.csproj",
         "projectName": "Crud Operation",
-        "projectPath": "C:\\Users\\Yash.Khandelwal\\source\\repos\\Crud Operation\\Crud Operation\\Crud Operation.csproj",
-        "packagesPath": "C:\\Users\\Yash.Khandelwal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yash.Khandelwal\\source\\repos\\Crud Operation\\Crud Operation\\obj\\",
+        "projectPath": "C:\\Users\\yashk\\Source\\Repos\\React-Project\\Crud Operation\\Crud Operation\\Crud Operation.csproj",
+        "packagesPath": "C:\\Users\\yashk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yashk\\Source\\Repos\\React-Project\\Crud Operation\\Crud Operation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yash.Khandelwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yashk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +40,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

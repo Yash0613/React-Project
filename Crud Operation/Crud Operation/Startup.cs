@@ -1,3 +1,5 @@
+using Crud_Operation.RepositoryLayer;
+using Crud_Operation.ServiceLayer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,6 +28,10 @@ namespace Crud_Operation
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddScoped<ICrudOperationSL, CrudOperationSL>();
+            services.AddScoped<ICrudOperationRL, CrudOperationRL>();
+            services.AddSwaggerGen();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +51,11 @@ namespace Crud_Operation
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+            app.UseSwagger();
+            app.UseSwaggerUI(c => // UseSwaggerUI Protected by if (env.IsDevelopment())
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
             });
         }
     }
